@@ -2,8 +2,8 @@
     {
         "id": 1,
     "name": "Jamie Oliver",
-    "chef_bio": "Jamie Oliver is a British chef and restaurateur known for his simple, healthy, and delicious recipes.",
-    "chef_image": "https://example.com/jamie-oliver.jpg",
+    "chef_bio": "Li Hong is a master of Cantonese cuisine, known for his delicate and sophisticated dishes...",
+    "chef_image": "https://nerdyfoodies.com/wp-content/uploads/2020/10/Famous-Chinese-Chefs-1024x683.webp",
     "likes": 50000,
     "experience": "Over 20 years of cooking experience",
     "recipes": [
@@ -27,8 +27,8 @@
   {
     "id": 2,
     "name": "Chen Xiaoping",
-    "chef_bio": "Chen Xiaoping is a renowned chef who specializes in Sichuan cuisine. He has won multiple awards for his culinary skills and has been featured in several food magazines and TV shows.",
-    "chef_image": "https://example.com/chef1.jpg",
+    "chef_bio": "Chen Xiaoping is a renowned chef who specializes in Sichuan cuisine. He has won multiple awards for his culinary...",
+    "chef_image": "https://asiantv4u.com/wp-content/uploads/2021/10/chinese-chef-1.jpg.webp",
     "likes": 20000,
     "experience": "Over 7 years of cooking experience",
     "recipes": [
@@ -52,8 +52,8 @@
 {
     "id": 3,
     "name": "Li Hong",
-    "chef_bio": "Li Hong is a master of Cantonese cuisine, known for his delicate and sophisticated dishes. He has worked in several Michelin-starred restaurants and has trained many aspiring chefs.",
-    "chef_image": "https://example.com/chef2.jpg",
+    "chef_bio": "Li Hong is a master of Cantonese cuisine, known for his delicate and sophisticated dishes...",
+    "chef_image": "https://asiantv4u.com/wp-content/uploads/2021/10/chinese-chef-2.jpg.webp",
     "likes": 15000,
     "experience": "Over 10 years of cooking experience",
     "recipes": [
@@ -77,8 +77,58 @@
 {
     "id": 4,
     "name": "Wang Ming",
-    "chef_bio": "Wang Ming is a rising star in the world of Chinese cuisine, with a unique style that combines traditional flavors with modern techniques. He has worked in some of the best restaurants in Beijing and Shanghai.",
-    "chef_image": "https://example.com/chef3.jpg",
+    "chef_bio": "Wang Ming is a rising star in the world of Chinese cuisine, with a unique style that combines traditional flavors with modern techniques...",
+    "chef_image": "https://asiantv4u.com/wp-content/uploads/2021/10/chinese-chef-9.jpg.webp",
+    "likes": 12000,
+    "experience": "Over 12 years of cooking experience",
+    "recipes": [
+        {
+            "name": "Stir-fried Beef with Black Pepper Sauce",
+            "cooking_method": "Stir-fry",
+            "rating": 4.4
+        },
+        {
+            "name": "Ma La Xiang Guo (Spicy Stir-fry)",
+            "cooking_method": "Stir-fry",
+            "rating": 4.6
+        },
+        {
+            "name": "Braised Pork Belly with Preserved Vegetables",
+            "cooking_method": "Braising",
+            "rating": 4.8
+        }
+    ]
+},
+{
+    "id": 5,
+    "name": "Wang Ming",
+    "chef_bio": "Ken Hom, who dwells in France and in Thailand however voyages eagerly everywhere throughout the world, keeps on seeming routinely as VIP culinary expert.",
+    "chef_image": "https://asiantv4u.com/wp-content/uploads/2021/10/chinese-chef-10.jpg.webp",
+    "likes": 12000,
+    "experience": "Over 12 years of cooking experience",
+    "recipes": [
+        {
+            "name": "Stir-fried Beef with Black Pepper Sauce",
+            "cooking_method": "Stir-fry",
+            "rating": 4.4
+        },
+        {
+            "name": "Ma La Xiang Guo (Spicy Stir-fry)",
+            "cooking_method": "Stir-fry",
+            "rating": 4.6
+        },
+        {
+            "name": "Braised Pork Belly with Preserved Vegetables",
+            "cooking_method": "Braising",
+            "rating": 4.8
+        }
+    ]
+},
+{
+    "id": 6,
+    "name": "Wang Ming",
+    "chef_bio": "Shirley is the finalist for Season 11 of Top Chef. She opened her own particular culinary counseling organization, Chung Lee Consulting in Las Vegas after Top Chef. Now, Shirley is third most liked culinary expert among top 10 famous chef in China.",
+    "chef_image": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Ken-Hom-top-10-chefs-in-china-768x530.jpg",
     "likes": 12000,
     "experience": "Over 12 years of cooking experience",
     "recipes": [
