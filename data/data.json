@@ -1,0 +1,103 @@
+[
+    {
+        "id": 1,
+    "name": "Jamie Oliver",
+    "chef_bio": "Jamie Oliver is a British chef and restaurateur known for his simple, healthy, and delicious recipes.",
+    "chef_image": "https://example.com/jamie-oliver.jpg",
+    "likes": 50000,
+    "experience": "Over 20 years of cooking experience",
+    "recipes": [
+      {
+        "name": "Pesto Pasta",
+        "cooking_method": "Boil pasta, mix pesto sauce, and serve hot",
+        "rating": 4.5
+      },
+      {
+        "name": "Roasted Chicken",
+        "cooking_method": "Season chicken with salt and pepper, roast in the oven until cooked, and serve with roasted vegetables",
+        "rating": 4.8
+      },
+      {
+        "name": "Fish and Chips",
+        "cooking_method": "Coat fish in batter, deep-fry until crispy, and serve with fries and tartar sauce",
+        "rating": 4.2
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Chen Xiaoping",
+    "chef_bio": "Chen Xiaoping is a renowned chef who specializes in Sichuan cuisine. He has won multiple awards for his culinary skills and has been featured in several food magazines and TV shows.",
+    "chef_image": "https://example.com/chef1.jpg",
+    "likes": 20000,
+    "experience": "Over 7 years of cooking experience",
+    "recipes": [
+        {
+            "name": "Mapo Tofu",
+            "cooking_method": "Stir-fry",
+            "rating": 4.5
+        },
+        {
+            "name": "Kung Pao Chicken",
+            "cooking_method": "Stir-fry",
+            "rating": 4.2
+        },
+        {
+            "name": "Dan Dan Noodles",
+            "cooking_method": "Boil and Stir-fry",
+            "rating": 4.8
+        }
+    ]
+},
+{
+    "id": 3,
+    "name": "Li Hong",
+    "chef_bio": "Li Hong is a master of Cantonese cuisine, known for his delicate and sophisticated dishes. He has worked in several Michelin-starred restaurants and has trained many aspiring chefs.",
+    "chef_image": "https://example.com/chef2.jpg",
+    "likes": 15000,
+    "experience": "Over 10 years of cooking experience",
+    "recipes": [
+        {
+            "name": "Steamed Sea Bass with Ginger and Scallions",
+            "cooking_method": "Steaming",
+            "rating": 4.7
+        },
+        {
+            "name": "Cantonese-style Roast Duck",
+            "cooking_method": "Roasting",
+            "rating": 4.5
+        },
+        {
+            "name": "Dim Sum Platter",
+            "cooking_method": "Steaming and Frying",
+            "rating": 4.9
+        }
+    ]
+},
+{
+    "id": 4,
+    "name": "Wang Ming",
+    "chef_bio": "Wang Ming is a rising star in the world of Chinese cuisine, with a unique style that combines traditional flavors with modern techniques. He has worked in some of the best restaurants in Beijing and Shanghai.",
+    "chef_image": "https://example.com/chef3.jpg",
+    "likes": 12000,
+    "experience": "Over 12 years of cooking experience",
+    "recipes": [
+        {
+            "name": "Stir-fried Beef with Black Pepper Sauce",
+            "cooking_method": "Stir-fry",
+            "rating": 4.4
+        },
+        {
+            "name": "Ma La Xiang Guo (Spicy Stir-fry)",
+            "cooking_method": "Stir-fry",
+            "rating": 4.6
+        },
+        {
+            "name": "Braised Pork Belly with Preserved Vegetables",
+            "cooking_method": "Braising",
+            "rating": 4.8
+        }
+    ]
+}
+    
+]
