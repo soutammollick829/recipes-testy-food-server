@@ -1,6 +1,6 @@
 [
     {
-        "id": 1,
+    "id": 1,
     "name": "Jamie Oliver",
     "chef_bio": "Li Hong is a master of Cantonese cuisine, known for his delicate and sophisticated dishes...",
     "chef_image": "https://nerdyfoodies.com/wp-content/uploads/2020/10/Famous-Chinese-Chefs-1024x683.webp",
@@ -8,19 +8,19 @@
     "experience": "Over 20 years of cooking experience",
     "recipes": [
       {
-        "name": "Pesto Pasta",
-        "cooking_method": "Boil pasta, mix pesto sauce, and serve hot",
-        "rating": 4.5
+        "name1": "Pesto Pasta",
+        "cooking_method1": "Boil pasta, mix pesto sauce, and serve hot",
+        "rating1": 4.5
       },
       {
-        "name": "Roasted Chicken",
-        "cooking_method": "Season chicken with salt and pepper, roast in the oven until cooked, and serve with roasted vegetables",
-        "rating": 4.8
+        "name2": "Roasted Chicken",
+        "cooking_method2": "Season chicken with salt and pepper, roast in the oven until cooked, and serve with roasted vegetables",
+        "rating2": 4.8
       },
       {
-        "name": "Fish and Chips",
-        "cooking_method": "Coat fish in batter, deep-fry until crispy, and serve with fries and tartar sauce",
-        "rating": 4.2
+        "name3": "Fish and Chips",
+        "cooking_method3": "Coat fish in batter, deep-fry until crispy, and serve with fries and tartar sauce",
+        "rating3": 4.2
       }
     ]
   },
@@ -33,19 +33,19 @@
     "experience": "Over 7 years of cooking experience",
     "recipes": [
         {
-            "name": "Mapo Tofu",
-            "cooking_method": "Stir-fry",
-            "rating": 4.5
+            "name1": "Mapo Tofu",
+            "cooking_method1": "This method involves cooking small pieces of food quickly over high heat, typically in a wok or frying pan. The food is constantly stirred to prevent burning and ensure even cooking. Common ingredients include vegetables, meat, seafood, and noodles",
+            "rating1": 4.5
         },
         {
-            "name": "Kung Pao Chicken",
-            "cooking_method": "Stir-fry",
-            "rating": 4.2
+            "name2": "Kung Pao Chicken",
+            "cooking_method2": "Stir-fry",
+            "rating2": 4.2
         },
         {
-            "name": "Dan Dan Noodles",
-            "cooking_method": "Boil and Stir-fry",
-            "rating": 4.8
+            "name3": "Dan Dan Noodles",
+            "cooking_method3": "This involves quickly frying ingredients in a wok or similar pan with a small amount of oil over high heat. The food is constantly stirred and tossed to ensure even cooking.",
+            "rating3": 4.8
         }
     ]
 },
@@ -58,94 +58,94 @@
     "experience": "Over 10 years of cooking experience",
     "recipes": [
         {
-            "name": "Steamed Sea Bass with Ginger and Scallions",
-            "cooking_method": "Steaming",
-            "rating": 4.7
+            "name1": "Steamed Sea Bass with Ginger and Scallions",
+            "cooking_method1": "Coat fish in batter, deep-fry until crispy, and serve with fries and tartar sauce",
+            "rating1": 4.7
         },
         {
-            "name": "Cantonese-style Roast Duck",
-            "cooking_method": "Roasting",
-            "rating": 4.5
+            "name2": "Cantonese-style Roast Duck",
+            "cooking_method2": " Steaming is a popular method of cooking in Chinese cuisine, especially for seafood and vegetables. The food is placed in a steamer basket or plate and cooked over boiling water until tender. This method helps to retain the natural flavor and nutrients of the food",
+            "rating2": 4.5
         },
         {
-            "name": "Dim Sum Platter",
-            "cooking_method": "Steaming and Frying",
-            "rating": 4.9
+            "name3": "Dim Sum Platter",
+            "cooking_method3": "Steaming and Frying",
+            "rating3": 4.9
         }
     ]
 },
 {
     "id": 4,
-    "name": "Wang Ming",
+    "name": "Martin Yan",
     "chef_bio": "Wang Ming is a rising star in the world of Chinese cuisine, with a unique style that combines traditional flavors with modern techniques...",
     "chef_image": "https://asiantv4u.com/wp-content/uploads/2021/10/chinese-chef-9.jpg.webp",
     "likes": 12000,
-    "experience": "Over 12 years of cooking experience",
+    "experience": "Over 7 years of cooking experience",
     "recipes": [
         {
-            "name": "Stir-fried Beef with Black Pepper Sauce",
-            "cooking_method": "Stir-fry",
-            "rating": 4.4
+            "name1": "Stir-fried Beef with Black Pepper Sauce",
+            "cooking_method1": "Stir-fry",
+            "rating1": 4.4
         },
         {
-            "name": "Ma La Xiang Guo (Spicy Stir-fry)",
-            "cooking_method": "Stir-fry",
-            "rating": 4.6
+            "name2": "Ma La Xiang Guo (Spicy Stir-fry)",
+            "cooking_method2": "This involves cooking food in a bamboo or metal steamer over boiling water. This method is often used for seafood, dumplings, and vegetables.",
+            "rating2": 4.6
         },
         {
-            "name": "Braised Pork Belly with Preserved Vegetables",
-            "cooking_method": "Braising",
-            "rating": 4.8
+            "name3": "Braised Pork Belly with Preserved Vegetables",
+            "cooking_method3": "This involves slowly cooking food in a flavorful liquid over low heat. The liquid is often a mixture of soy sauce, sugar, and spices.",
+            "rating3": 4.8
         }
     ]
 },
 {
     "id": 5,
-    "name": "Wang Ming",
+    "name": "Shirley Chung",
     "chef_bio": "Ken Hom, who dwells in France and in Thailand however voyages eagerly everywhere throughout the world, keeps on seeming routinely as VIP culinary expert.",
     "chef_image": "https://asiantv4u.com/wp-content/uploads/2021/10/chinese-chef-10.jpg.webp",
     "likes": 12000,
-    "experience": "Over 12 years of cooking experience",
+    "experience": "Over 5 years of cooking experience",
     "recipes": [
         {
-            "name": "Stir-fried Beef with Black Pepper Sauce",
-            "cooking_method": "Stir-fry",
-            "rating": 4.4
+            "name1": "Stir-fried Beef with Black Pepper Sauce",
+            "cooking_method1": "Steaming is a popular Chinese cooking method for seafood, dumplings, and buns. The food is placed on a steaming rack or plate and cooked over boiling water in a covered steamer basket.",
+            "rating1": 4.4
         },
         {
-            "name": "Ma La Xiang Guo (Spicy Stir-fry)",
-            "cooking_method": "Stir-fry",
-            "rating": 4.6
+            "name2": "Ma La Xiang Guo (Spicy Stir-fry)",
+            "cooking_method2": "Stir-fry",
+            "rating2": 4.6
         },
         {
-            "name": "Braised Pork Belly with Preserved Vegetables",
-            "cooking_method": "Braising",
-            "rating": 4.8
+            "name3": "Braised Pork Belly with Preserved Vegetables",
+            "cooking_method3": "This is a slow-cooking method that involves simmering food in a soy sauce-based liquid until it becomes tender and flavorful. Red-cooking is often used for ",
+            "rating3": 4.8
         }
     ]
 },
 {
     "id": 6,
-    "name": "Wang Ming",
+    "name": "Cecilia Chiang",
     "chef_bio": "Shirley is the finalist for Season 11 of Top Chef. She opened her own particular culinary counseling organization, Chung Lee Consulting in Las Vegas after Top Chef. Now, Shirley is third most liked culinary expert among top 10 famous chef in China.",
     "chef_image": "https://thetoptenchefs.com/wp/wp-content/uploads/2016/10/Ken-Hom-top-10-chefs-in-china-768x530.jpg",
     "likes": 12000,
-    "experience": "Over 12 years of cooking experience",
+    "experience": "Over 13 years of cooking experience",
     "recipes": [
         {
-            "name": "Stir-fried Beef with Black Pepper Sauce",
-            "cooking_method": "Stir-fry",
-            "rating": 4.4
+            "name1": "Stir-fried Beef with Black Pepper Sauce",
+            "cooking_method1": "This method involves cooking food with steam over boiling water. It's a healthy way to prepare fish, dumplings, and vegetables, as it retains their nutrients and natural flavors.",
+            "rating1": 4.4
         },
         {
-            "name": "Ma La Xiang Guo (Spicy Stir-fry)",
-            "cooking_method": "Stir-fry",
-            "rating": 4.6
+            "name2": "Ma La Xiang Guo (Spicy Stir-fry)",
+            "cooking_method2": "Stir-fry",
+            "rating2": 4.6
         },
         {
-            "name": "Braised Pork Belly with Preserved Vegetables",
-            "cooking_method": "Braising",
-            "rating": 4.8
+            "name3": "Braised Pork Belly with Preserved Vegetables",
+            "cooking_method3": "In this method, food is slowly cooked in a flavorful liquid, such as soy sauce, sugar, and spices, until it becomes tender and juicy. Braising is great for tough cuts of meat, and also works well with vegetables.",
+            "rating3": 4.8
         }
     ]
 }
